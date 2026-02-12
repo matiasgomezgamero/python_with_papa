@@ -1,36 +1,14 @@
-Colores favoritos
-Crea un array con 5 colores y muestra todos los colores uno por uno.
+encontrar el numero mayor del array
+    [1,2,3] respuesta 3
 
-Números del 1 al 5
-Guarda los números del 1 al 5 en un array y muéstralos en pantalla.
+encontrar el numero menor del array
+    [1,2,3] respuesta 1
 
-Mascotas
-Crea un array con los nombres de 3 mascotas y muestra solo la primera.
+encontrar los numeros que esten repetidos
+    [1,2,3,2,1] respuesta [1,2]
 
-Frutas
-Guarda 4 frutas en un array y muestra la última fruta.
+hallar el promedio de los numeros (la suma de todos los numeros dividido en la cantidad de numeros)
+    [1,2,3] respuesta 2
 
-Contar elementos
-Crea un array con juguetes y muestra cuántos juguetes hay.
-
-Sumar números
-Dado un array con 3 números, calcula la suma de todos.
-
-Buscar un número
-Dado un array con números, revisa si el número 7 está dentro.
-
-Cambiar un valor
-Crea un array con 3 nombres y cambia el segundo nombre por otro.
-
-Mostrar en orden
-Dado un array con números, muéstralos en el mismo orden en que están guardados.
-
-Mostrar al revés
-Dado un array con 4 números, muéstralos empezando desde el último.
-
-Agregar un elemento
-Crea un array con 2 animales y luego agrega uno más.
-
-Repetir palabras
-Dado un array con palabras, muestra cada palabra diciendo:
-“Me gusta ___”.
+que el programa me pregunte un numero y ese numero lo reemplace por "*" en el array
+    [1,2,3] respuesta [1,'*',3]
